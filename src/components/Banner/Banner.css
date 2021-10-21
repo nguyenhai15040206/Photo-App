@@ -1,0 +1,15 @@
+.banner{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    height: 15rem;
+    background-image: url(../../assets/images/Banner1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.banner .banner-title{
+    color: cadetblue;
+    font-weight: bold;
+}
